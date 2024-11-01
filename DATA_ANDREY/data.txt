@@ -1,0 +1,109 @@
+[1000000 Registros]
+Seed: 12345
+n°: 1000000
+sTabela: 1000
+Metodo: Módulo
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [999000]
+1736511100 nanosegundos
+
+---
+
+Seed: 12345
+n°: 1000000
+sTabela: 1000
+Metodo: Dobramento
+Foram Feitas [199] Inserções sem colisão.
+Foram Feitas [999801] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [999801]
+35798669200 nanosegundos
+
+---
+
+Seed: 12345
+n°: 1000000
+sTabela: 1000
+Metodo: Multiplicação
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [999000]
+4281984500 nanosegundos
+
+=========
+[5000000 Registros]
+
+Seed: 12345
+n°: 5000000
+sTabela: 1000
+Metodo: Dobramento
+Foram Feitas [199] Inserções sem colisão.
+Foram Feitas [4999801] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [4999801]
+602356576300 nanosegundos
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [4999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [4999000]
+40335732400 nanosegundos
+
+---
+
+Seed: 12345
+n°: 5000000
+sTabela: 1000
+Metodo: Módulo
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [4999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [4999000]
+40335732400 nanosegundos
+
+
+---
+
+Seed: 12345
+n°: 5000000
+sTabela: 1000
+Metodo: Multiplicação
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [4999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [4999000]
+75064753700 nanosegundos
+
+
+=========
+faça uma previção para o algoritimo rodando com 20000000 registros
+[20000000]
+
+Seed: 12345
+n°: 20000000
+sTabela: 1000
+Metodo: Multiplicação
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [19999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [19999000]
+882011860000 nanosegundos
+
+---
+
+Seed: 12345
+n°: 20000000
+sTabela: 1000
+Metodo: Módulo
+Foram Feitas [1000] Inserções sem colisão.
+Foram Feitas [19999000] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [19999000]
+605035986000 nanosegundos
+
+---
+
+Seed: 12345
+n°: 20000000
+sTabela: 1000
+Metodo: Dobramento
+Foram Feitas [199] Inserções sem colisão.
+Foram Feitas [19999801] Inserções em Nodes (colisões resolvidas).
+Número total de colisões: [19999801]
+6351857897000 nanosegundos
+
+
+===
